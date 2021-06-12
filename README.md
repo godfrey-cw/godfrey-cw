@@ -1,5 +1,5 @@
 I recently completed a PhD in math. My research focuses on birational geometry
-and singularities. Particular interests include:
+and singularities, with particular interests including:
 
 - singularities of pairs in positive and mixed characteristic
 - dual complexes of snc varieties and of singularities
